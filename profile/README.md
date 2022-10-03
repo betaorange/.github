@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-We just making some programs & games
+We making some softwares

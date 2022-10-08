@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-We making some softwares
+We just making some softwares
